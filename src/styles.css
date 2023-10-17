@@ -1,0 +1,23 @@
+.hidden {
+  display: none;
+}
+.breed-select {
+  font-family: Arial, sans-serif;
+  color: #333;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.breed-select option {
+  background-color: #f4f4f4;
+  padding: 5px;
+}
+.cat-info img {
+  margin-top: 50px;
+  width: 1000px;
+  height: auto;
+}
+.cat-info {
+  display: flex;
+  align-items: center;
+}
